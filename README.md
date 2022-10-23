@@ -1,2 +1,2 @@
 # html-css
-<p>This is my first HTML project (form) </p>
+<p>These are my first projects in HTML and CSS web. </p>
